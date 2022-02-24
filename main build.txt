@@ -1,1 +1,3 @@
 Master Branch - Writing some Text in master branch
+
+Adding one line from feature branch
